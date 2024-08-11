@@ -198,4 +198,6 @@ This script is focused on detecting mirror symmetry in images. It takes a conver
 
 5. Jadhav, S., Tarle, B., & Waghmare, L. M. (2007). *Polygonal Approximation of 2-D Binary Images*. In *Fourth International Conference on Information Technology: New Generations (ITNG 2007)*, 2-4 April 2007, Las Vegas, Nevada, USA. DOI: [10.1109/ITNG.2007.151](https://doi.org/10.1109/ITNG.2007.151)
 
-6. Cicconet, M., Colburn, D. G., & Elliott, H. (2016). *Finding Mirror Symmetry via Registration*. Full-text available.
+6. Loy, G., & Eklundh, J.-O. (2006). *Detecting Symmetry and Symmetric Constellations of Features*. In *Computer Vision - ECCV 2006, 9th European Conference on Computer Vision*, Graz, Austria, May 7-13, 2006, Proceedings, Part II. DOI: [10.1007/11744047_39](https://doi.org/10.1007/11744047_39)
+
+7. Xiao, Z., & Wu, J. (2007). *Analysis on Image Symmetry Detection Algorithms*. In *Fourth International Conference on Fuzzy Systems and Knowledge Discovery, FSKD 2007*, 24-27 August 2007, Haikou, Hainan, China, Proceedings, Volume 4. DOI: [10.1109/FSKD.2007.173](https://doi.org/10.1109/FSKD.2007.173)
